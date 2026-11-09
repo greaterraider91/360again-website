@@ -1,1 +1,12 @@
+@font-face {
+  font-family: SegoeXboxL;
+  src: url(./SegoeXbox-Light.ttf);
+}
 
+h1 {
+  font-family: SegoeXboxL;
+}
+
+p {
+  font-family: SegoeXboxL;
+}
