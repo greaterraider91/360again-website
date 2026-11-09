@@ -24,6 +24,7 @@ ul li {
 }
 
 ul li a {
+  font-family: SegoeXboxL;
   display: block;
   color: white;
   text-align: center;
