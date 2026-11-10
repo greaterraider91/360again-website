@@ -13,6 +13,7 @@ p {
 
 body {
   font-family: SegoeXboxL;
+  background-image: url("./web-bg.png");
 }
 
 .card {
